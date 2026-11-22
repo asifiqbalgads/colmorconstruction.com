@@ -1,0 +1,11 @@
+# Development / QA artefacts — not part of the published site
+_fonts/
+_research/
+shots/
+image-search/
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
