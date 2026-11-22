@@ -1,0 +1,4 @@
+# Design concept / demo build — excluded from search engines so it does not
+# compete with the live site at https://www.colmorconstruction.com/
+User-agent: *
+Disallow: /
